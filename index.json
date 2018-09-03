@@ -1,0 +1,99 @@
+[
+{
+	"uri": "/topics/research/",
+	"title": "Research",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/topics/",
+	"title": "Thematic blocks",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/activities/",
+	"title": "Activities",
+	"tags": [],
+	"description": "",
+	"content": "\r\rWhat is psychology\r\rShort introduction to preexisting ideas about psychology\n\rWhat is science?\r\rDefinition of what is science and what is not\n\r"
+},
+{
+	"uri": "/topics/biology/",
+	"title": "Biology",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/topics/cognitive/",
+	"title": "Cognitive",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/ib-requirements/",
+	"title": "IB requirements",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/topics/social/",
+	"title": "Social",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/topics/abnormal/",
+	"title": "Abnormal psychology",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "",
+	"content": " Contributors Thanks to them  for making Open Source Software a better place !\n.ghContributors{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div{\rwidth: 50% ;\rdisplay: inline-flex;\rmargin-bottom: 5px;\r}\r.ghContributors  div label{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rfont-size: x-small;\rpadding-left: 4px ;\r}\r\r\r@matcornic\r139 commits\r\r\r@lierdakil\r16 commits\r\r\r@gwleclerc\r13 commits\r\r\r@mdavids\r10 commits\r\r\r@Xipas\r5 commits\r\r\r@mreithub\r3 commits\r\r\r@matalo33\r3 commits\r\r\r@denisvm\r2 commits\r\r\r@gpospelov\r2 commits\r\r\r@lfalin\r2 commits\r\r\r@alexvargasbenamburg\r1 commits\r\r\r@afs2015\r1 commits\r\r\r@MrMoio\r1 commits\r\r\r@giuliov\r1 commits\r\r\r@haitch\r1 commits\r\r\r@RealOrangeOne\r1 commits\r\r\r@tanzaho\r1 commits\r\r\r@JohnBlood\r1 commits\r\r\r@kamilchm\r1 commits\r\r\r@sykesm\r1 commits\r\r\r@ripienaar\r1 commits\r\r\r@EnigmaCurry\r1 commits\r\r\r@tedyoung\r1 commits\r\r\r@Thiht\r1 commits\r\r\r@fossabot\r1 commits\r\r\r@kamar535\r1 commits\r\r\r@nonumeros\r1 commits\r\r\r@proelbtn\r1 commits\r\r And a special thanks to @vjeantet for his work on docdock, a fork of hugo-theme-learn. v2.0.0 of this theme is inspired by his work.\nPackages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo  "
+},
+{
+	"uri": "/",
+	"title": "Learn Theme for Hugo",
+	"tags": [],
+	"description": "",
+	"content": " Hugo learn theme Hugo-theme-learn is a theme for Hugo, a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is fully designed for documentation.\nThis theme is a partial porting of the Learn theme of Grav, a modern flat-file CMS written in PHP.\nLearn theme works with a page tree structure to organize content : All contents are pages, which belong to other pages. [read more about this]()\n\rMain features  Thematic topics  Contribute to this documentation Feel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n\rDocumentation website This current documentation has been statically generated with Hugo with a simple command : hugo -t hugo-theme-learn \u0026ndash; source code is available here at GitHub\nAutomatically published and hosted thanks to Netlify. Read more about Automated HUGO deployments with Netlify\n\r"
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/activities/what-is-psychology/",
+	"title": "What is psychology",
+	"tags": [],
+	"description": "Short introduction to preexisting ideas about psychology",
+	"content": ""
+},
+{
+	"uri": "/activities/what-is-science/",
+	"title": "What is science?",
+	"tags": [],
+	"description": "Definition of what is science and what is not",
+	"content": "\r\rAttachments\r\r\rCan Science Answer This Question.pdf\r\r(44 ko)\r\r\r\r"
+}]
