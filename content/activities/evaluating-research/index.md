@@ -2,10 +2,34 @@
 title = "Evaluating research"
 description = "How to read and evaluate psychological research"
 +++
+{{% attachments /%}}
 
-This activity focuses on studnets ability to read and understand even complex articles. It's goal isn't necessarily for the studnet to understand everything in the text, but to be able to pinpoint important parts and to discuss valid points the article makes.
+This activity focuses on students ability to read and understand even complex articles. It's goal isn't necessarily for the student to understand everything in the text, but to be able to pinpoint important parts and to discuss valid points the article makes.
 
-The activity follows classes on research. Studnets are given each question immediately after appropriate lesson has been covered (e.g. question 10 after ethics have been gone through).
+The activity follows classes on research. Students are given each question immediately after appropriate lesson has been covered (e.g. question 10 after ethics have been gone through). In the end, students hand out a summary of a scientific paper.
+
+## Goal
+Teaching students how to read research which might be a bit over their heads with its complexity. Showing the plethora of methodologies used. Showing the structure that scientific articles usually have (IMRD). Learning to think critically about conducted research - was it done well? Does it actually answer the question it set to answer?
+
+## Structure
+
+Let students select a paper from a list of approved studies. Read through one paper together in class and answer all questions - even those which they don't know what they are - sometimes, some students do :)
+
+Let them "browse" the paper and answer questions 1-4. Then, after each lesson on a particular topic (say methods, ethics, statistics), give them those questions to answer as well. After all questions have been answered (usually 3-4 weeks) ,give them extra week to finalize the report. 
+
+### Schedule in points
+
+1. Go over one psych paper together (procrastionation by Dan Ariely)
+
+2. Read the article and Answer questions 1-4 - even though they don’t know perfectly how or they don't understand the entire paper
+
+3. Get their answers and give brief pointers. Do not mark at this point
+
+4. Get back to each question as you do each appropriate section (sampling, ethics) and ask them to hand you answer to those questions as you cover the lessons.
+
+5. After all questions have been answered, give them one week to "finalize" the report.
+
+6. Get their new answers (and mark them).
 
 ## Questions
 1. What was the purpose of the study
@@ -34,27 +58,6 @@ method?
 
 11. Concluding remarks. If you want to note something more, please do so.
 
-## Schedule
-
-1. Go over one psych paper together (procrastionation by Dan Ariely)
-
-2. Read the article and Answer questions 1-4 - even though they don’t know perfectly how or they don't understand the entire paper
-
-3. Get their answers and give brief pointers. Do not mark at this point
-
-4. Get back to each question as you do each appropriate section (sampling, ethics) and ask them to hand you answer to those questions as you cover the lessons.
-
-5. After all questions have been answered, give them one week to "finalize" the report.
-
-6. Get their new answers and mark them.
-
-##  
-
-{{% notice tip %}}
-asdfasdfasdf
-{{% /notice %}}
-
-{{% attachments /%}}
 ### Recomended journals
 | Authors                                                                               | Title                                                                                                            | Journal                                        | Full journal                                                                    | Publication year |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------|------------------|
