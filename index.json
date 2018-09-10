@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/ib-psych/topics/introduction/",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": " What is psychology\n plurality of psychology and psychological sciences\n Psychology vs pseudopsychology (zodiac, psychics, tarot etc.) What they have in common and where they start to diverge\n  "
+},
+{
 	"uri": "/ib-psych/topics/research/",
 	"title": "Research",
 	"tags": [],
@@ -18,7 +25,7 @@
 	"title": "Activities",
 	"tags": [],
 	"description": "",
-	"content": "\r\rEvaluating research\r\rHow to read and evaluate psychological research\n\rForer effect, aka. blind reading\r\r\n\rWhat is psychology\r\rShort introduction to preexisting ideas about psychology\n\rWhat is science?\r\rDefinition of what is science and what is not\n\rZodiac signs and personality\r\rAre zodiac personality types correct\n\r"
+	"content": "\r\rEvaluating research\r\rHow to read and evaluate psychological research\n\rForer effect, aka. blind reading\r\rThis activity is a good introduction to a scientific inquiry as well as discussion in the psychology vs parapsychology introduction. The Forer effect refers to the tendency of people to rate sets of statements as highly accurate for them personally even though the statements could apply to many people. Goal Show students the importance of specific vs vague statements, demonstrate why horoscopes and psychics work and why people tend to believe in these seemingly random encounters.\n\rScience or pseudoscience\r\rThis activity let\u0026rsquo;s students to pick a pseudoscientific or \u0026ldquo;junk\u0026rdquo; science topic, present to the class what it is and why it is junk science. Goal Distinguish between real sciences and pseudo sciences. Be clear that \u0026ldquo;unreal\u0026rdquo; things are not necessarily not scientific - what makes atoms more believable than ghosts to a general public without an electron microscope? Neither can be touched, neither can be seen. List of topics Animal magnetism Graphology Fortune telling Rorschach test Neurolinguistics MBTI test Ouija board Telepathy Faith healing Telekinesis Čištění 12.\n\rUncovering fake artist\r\rSynesthesia is not an unknown or entirely uncommon thing, but still. If an artist claims she sells paintings of what she hears, you\u0026rsquo;d better be certain before you buy it and start boasting to your friends. Goal Design an experiment to prove synesthesia in an artist who claims so. Try approach it from different levels of anlaysis - bio vs cognitive. Practicing good hypothesis formulation. How to create hypothesis from theory.\n\rWhat is psychology\r\rShort introduction to preexisting ideas about psychology\n\rWhat is science?\r\rDefinition of what is science and what is not\n\rZodiac signs and personality\r\rAre zodiac personality types correct\n\r"
 },
 {
 	"uri": "/ib-psych/topics/biology/",
@@ -42,6 +49,20 @@
 	"content": ""
 },
 {
+	"uri": "/ib-psych/topics/research/methods/",
+	"title": "Methods in psychology",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/ib-psych/topics/research/sampling/",
+	"title": "Sampling",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/ib-psych/topics/social/",
 	"title": "Social",
 	"tags": [],
@@ -56,18 +77,25 @@
 	"content": ""
 },
 {
-	"uri": "/ib-psych/categories/",
-	"title": "Categories",
+	"uri": "/ib-psych/topics/research/ethics/",
+	"title": "Ethics",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "/ib-psych/credits/",
-	"title": "Credits",
+	"uri": "/ib-psych/year-plan/",
+	"title": "Year plan",
 	"tags": [],
 	"description": "",
-	"content": " Contributors Thanks to them  for making Open Source Software a better place !\n.ghContributors{\rdisplay:flex;\rflex-flow: wrap;\ralign-content: flex-start\r}\r.ghContributors  div{\rwidth: 50% ;\rdisplay: inline-flex;\rmargin-bottom: 5px;\r}\r.ghContributors  div label{\rpadding-left: 4px ;\r}\r.ghContributors  div span{\rfont-size: x-small;\rpadding-left: 4px ;\r}\r\r\r@matcornic\r139 commits\r\r\r@lierdakil\r16 commits\r\r\r@gwleclerc\r13 commits\r\r\r@mdavids\r10 commits\r\r\r@Xipas\r5 commits\r\r\r@mreithub\r3 commits\r\r\r@matalo33\r3 commits\r\r\r@denisvm\r2 commits\r\r\r@gpospelov\r2 commits\r\r\r@lfalin\r2 commits\r\r\r@alexvargasbenamburg\r1 commits\r\r\r@afs2015\r1 commits\r\r\r@MrMoio\r1 commits\r\r\r@giuliov\r1 commits\r\r\r@haitch\r1 commits\r\r\r@RealOrangeOne\r1 commits\r\r\r@tanzaho\r1 commits\r\r\r@JohnBlood\r1 commits\r\r\r@kamilchm\r1 commits\r\r\r@sykesm\r1 commits\r\r\r@ripienaar\r1 commits\r\r\r@EnigmaCurry\r1 commits\r\r\r@tedyoung\r1 commits\r\r\r@Thiht\r1 commits\r\r\r@fossabot\r1 commits\r\r\r@kamar535\r1 commits\r\r\r@nonumeros\r1 commits\r\r\r@proelbtn\r1 commits\r\r And a special thanks to @vjeantet for his work on docdock, a fork of hugo-theme-learn. v2.0.0 of this theme is inspired by his work.\nPackages and libraries  mermaid - generation of diagram and flowchart from text in a similar manner as markdown font awesome - the iconic font and CSS framework jQuery - The Write Less, Do More, JavaScript Library lunr - Lunr enables you to provide a great search experience without the need for external, server-side, search services\u0026hellip; horsey - Progressive and customizable autocomplete component clipboard.js - copy text to clipboard highlight.js - Javascript syntax highlighter modernizr - A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don\u0026rsquo;t support  Tooling  Netlify - Continuous deployement and hosting of this documentation Hugo  "
+	"content": "   Week Topic Topic chapter Activities     1 Introduction to psychology     2 Introduction to research  Forer effect    "
+},
+{
+	"uri": "/ib-psych/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/ib-psych/activities/evaluating-research/",
@@ -81,7 +109,7 @@
 	"title": "Forer effect, aka. blind reading",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " This activity is a good introduction to a scientific inquiry as well as discussion in the psychology vs parapsychology introduction. The Forer effect refers to the tendency of people to rate sets of statements as highly accurate for them personally even though the statements could apply to many people.\nGoal Show students the importance of specific vs vague statements, demonstrate why horoscopes and psychics work and why people tend to believe in these seemingly random encounters. Introduce research in psychology testing and creation of psychological assessment.\nStructure Give students a questionaire to fill. The questionnaire should be irrelevant to the personality profile but still seem to be psychological - similarly to zodiac signs.\nExamples of questions are: - How often do you eat chicken meat? - How often do you follow weather forecast? - Which geometric shape you like the best? - What is your favorite colour?\nAfter students have filled in the questionnaire, create their personality profiles. The more \u0026ldquo;official\u0026rdquo; they look, the bigger the effect - tehoretically :) Each one is the same with the same Barnum statements. Stress out that they should not share it at this moment with their peers.\nHave them \u0026ldquo;mark\u0026rdquo; each statement as \u0026ldquo;correct\u0026rdquo;, \u0026ldquo;wrong\u0026rdquo;, or neither. And then let them mark the final profile.\nAfter they return the profile, start a discussion\nAfter they hand you in their results, you can do the Which desert are you activity (in files). And then followup with the discussion.\n\rStatements  You have a great need for other people to like and admire you. You have a tendency to be critical of yourself. You have a great deal of unused capacity which you have not turned to your advantage. While you have some personality weaknesses, you are generally able to compensate for them. Disciplined and self-controlled outside, you tend to be worrisome and insecure inside. At times you have serious doubts as to whether you have made the right decision or done the right thing. You prefer a certain amount of change and variety and become dissatisfied when hemmed in by restrictions and limitations. You pride yourself as an independent thinker and do not accept others\u0026rsquo; statements without satisfactory proof. You have found it unwise to be too frank in revealing yourself to others. At times you are extroverted, affable, sociable, while at other times you are introverted, wary, reserved. Some of your aspirations tend to be pretty unrealistic. Security is one of your major goals in life.  Discussion Before the discussion, give students the option to \u0026ldquo;guess\u0026rdquo; what this activity tried to accomplish. Then tell them about the statemtns and that everybody got the same thing. Discussion topics\n Why did you / didn\u0026rsquo;t you think it described you well? Which statements do you think everybody agreed with? What is the \u0026ldquo;danger\u0026rdquo; of this process? How it can relate to psychology and \u0026ldquo;endanger\u0026rdquo; it? What is the important message to take away?  Follow up It is a good idea to analyse their results and potentially pinpoint those questions in which most people answered true/false.\nasdf\n\rOnline resources  Wiki page\n Forer effect on Skeptic\n Barnum statements\n  \r\rAttachments\r\r\rprofile-result.pdf\r\r(32 ko)\r\r\rvague-statements-activity.pdf\r\r(97 ko)\r\r\rwhich-desert-are-you.pdf\r\r(57 ko)\r\r\r\r"
 },
 {
 	"uri": "/ib-psych/",
@@ -91,11 +119,39 @@
 	"content": " Hugo learn theme Hugo-theme-learn is a theme for Hugo, a fast and modern static website engine written in Go. Where Hugo is often used for blogs, this multilingual-ready theme is fully designed for documentation.\nThis theme is a partial porting of the Learn theme of Grav, a modern flat-file CMS written in PHP.\nLearn theme works with a page tree structure to organize content : All contents are pages, which belong to other pages. [read more about this]()\n\rMain features  Thematic topics  Contribute to this documentation Feel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n\rDocumentation website This current documentation has been statically generated with Hugo with a simple command : hugo -t hugo-theme-learn \u0026ndash; source code is available here at GitHub\nAutomatically published and hosted thanks to Netlify. Read more about Automated HUGO deployments with Netlify\n\r"
 },
 {
+	"uri": "/ib-psych/resources/",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": " Other teaching sites  Teaching psychological science  "
+},
+{
+	"uri": "/ib-psych/activities/science-pseudoscience/",
+	"title": "Science or pseudoscience",
+	"tags": [],
+	"description": "",
+	"content": " This activity let\u0026rsquo;s students to pick a pseudoscientific or \u0026ldquo;junk\u0026rdquo; science topic, present to the class what it is and why it is junk science.\nGoal Distinguish between real sciences and pseudo sciences. Be clear that \u0026ldquo;unreal\u0026rdquo; things are not necessarily not scientific - what makes atoms more believable than ghosts to a general public without an electron microscope? Neither can be touched, neither can be seen.\nList of topics  Animal magnetism Graphology Fortune telling Rorschach test Neurolinguistics MBTI test Ouija board Telepathy Faith healing Telekinesis  Čištění 12. vlánka DNA\nDiscussion What makes a good science? How do you decide if a topic is worth investigating or not? Where does good and bad science differ?\nWhat makes good science? 1) Science follows rules and guidelines - appropriate at a certain point in scientific knowledge. When we know certain method is invalid, science stops using it. (Scientology )\n2) Science values facts vs opinions - fact is a piece of information that multiple people agree on? Science is built on peer review and general rigorous falsification. You don\u0026rsquo;t believe this? - Disprove it!\n3) Science follows the principle of falsifiable hypotheses - hypotheses\n4) Science can be replicated\n5) Science is build on proper theories - theories\n"
+},
+{
 	"uri": "/ib-psych/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/ib-psych/topics/research/theory-hypothesis/",
+	"title": "Theory vs hypothesis",
+	"tags": [],
+	"description": "",
+	"content": " What makes a good theory? It is a) testable b) leads to multiple testable hypotheses (not just one)\n"
+},
+{
+	"uri": "/ib-psych/activities/fake-artist/",
+	"title": "Uncovering fake artist",
+	"tags": [],
+	"description": "",
+	"content": " Synesthesia is not an unknown or entirely uncommon thing, but still. If an artist claims she sells paintings of what she hears, you\u0026rsquo;d better be certain before you buy it and start boasting to your friends.\nGoal Design an experiment to prove synesthesia in an artist who claims so. Try approach it from different levels of anlaysis - bio vs cognitive. Practicing good hypothesis formulation. How to create hypothesis from theory. Testing the hypothesis. Dealing with unsuitable results - is one outlier enough to disprove the hypothesis?\nStructure  Show the video of an artist with synesthsia ASk students how would they go about proving or disproving the artist\u0026rsquo;s claims Try to play role of the artist and \u0026ldquo;debunk\u0026rdquo; all their tries. Agree as a class on a foolproof way to test the hypothesis.  "
 },
 {
 	"uri": "/ib-psych/activities/what-is-psychology/",
@@ -116,5 +172,5 @@
 	"title": "Zodiac signs and personality",
 	"tags": [],
 	"description": "Are zodiac personality types correct",
-	"content": " Personality profiles derived from star placements during the time of one\u0026rsquo;s birth are a thorn in a foot of many psychologists. But is there a reason?\nOne of the old principles say, that if a theory survives for a long time, there must be some validity in it. So how is it with zodiac signs?\nThis activity can be preceded by the Forer effect activity\n\rGoal Investigate validity of zodiac personality profiles. Students learn how to operationalize and structure their investigation. How to actually \u0026ldquo;define\u0026rdquo; the zodiac signs, how to assess the correct approach, how to analyse collected data.\nStudents learn that such approach isn\u0026rsquo;t different from other psychological tests. In the end, we discuss why zodiac signs might have survived such a long time.\nStructure Students in groups are asked to \u0026ldquo;Validate zodiac sign personality types\u0026rdquo;. The first step will be to actually define those traits. After definitions are established, they are asked to devise a plan to actually test it. Several approaches are viable - either testing for traits and then devising zodiac sign from those (but that is not how it actually works and it is not what we want to test!!!). So the \u0026ldquo;correct\u0026rdquo; approach is to be able to append correct personality type to a correct zodiac sign - therefore person born as Leo, should be classified as such.\nAfter the method is determined, start collecting data. Note the importance of \u0026ldquo;blind\u0026rdquo; or \u0026ldquo;double blind\u0026rdquo; study in this case. Also talk about importnace of big samples.\nAfter the data is collected, students can provide it to the teacher who will analyse it appropriately (probably chi-squared tests or fisher exact test). Talk again about the importance of large samples.\nYou can even try and debate meta analysis - combining results from few different groups.\nFinish with the discussion about the results.\n Why did you obtain these results? Do you think your results invalidate the thousands years of knowledge? Why this theory \u0026ldquo;stuck\u0026rdquo; for a long time.  Schedule  Define zodiac types - with the use of internet, books etc. Try to enforce multiple sources. Determine appropriate method to test if the sign \u0026ldquo;fits\u0026rdquo;. Collect the data. Talk about the importance of sampling and blind study. Analyse the results. Discuss the results and perserverance of invalid theories  "
+	"content": " Personality profiles derived from star placements during the time of one\u0026rsquo;s birth are a thorn in a foot of many psychologists. But is there a reason?\nOne of the old principles say, that if a theory survives for a long time, there must be some validity in it. So how is it with zodiac signs?\nThis activity can be preceded by the Forer effect activity\n\rGoal Investigate validity of zodiac personality profiles. Students learn how to operationalize and structure their investigation. How to actually \u0026ldquo;define\u0026rdquo; the zodiac signs, how to assess the correct approach, how to analyse collected data.\nStudents learn that such approach isn\u0026rsquo;t different from other psychological tests. In the end, we discuss why zodiac signs might have survived such a long time.\nStructure Students in groups are asked to \u0026ldquo;Validate zodiac sign personality types\u0026rdquo;. The first step will be to actually define those traits. After definitions are established, they are asked to devise a plan to actually test it. Several approaches are viable - either testing for traits and then devising zodiac sign from those (but that is not how it actually works and it is not what we want to test!!!). So the \u0026ldquo;correct\u0026rdquo; approach is to be able to append correct personality type to a correct zodiac sign - therefore person born as Leo, should be classified as such.\nAfter the method is determined, start collecting data. Note the importance of \u0026ldquo;blind\u0026rdquo; or \u0026ldquo;double blind\u0026rdquo; study in this case. Also talk about importnace of big samples.\nAfter the data is collected, students can provide it to the teacher who will analyse it appropriately (probably chi-squared tests or fisher exact test). Talk again about the importance of large samples.\nYou can even try and debate meta analysis - combining results from few different groups.\nFinish with the discussion about the results.\n Why did you obtain these results? Do you think your results invalidate the thousands years of knowledge? Why this theory \u0026ldquo;stuck\u0026rdquo; for a long time.  Schedule  Define zodiac types - with the use of internet, books etc. Try to enforce multiple sources. Determine appropriate method to test if the sign \u0026ldquo;fits\u0026rdquo;. Collect the data. Talk about the importance of sampling and blind study. Analyse the results. Discuss the results and perserverance of invalid theories  Links Astrology\n"
 }]

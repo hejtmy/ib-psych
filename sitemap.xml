@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ib-psych/topics/introduction/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/topics/research/</loc>
   </url>
   
@@ -27,6 +31,14 @@
   </url>
   
   <url>
+    <loc>/ib-psych/topics/research/methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/topics/research/sampling/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/topics/social/</loc>
   </url>
   
@@ -35,12 +47,16 @@
   </url>
   
   <url>
-    <loc>/ib-psych/categories/</loc>
-    <priority>0</priority>
+    <loc>/ib-psych/topics/research/ethics/</loc>
   </url>
   
   <url>
-    <loc>/ib-psych/credits/</loc>
+    <loc>/ib-psych/year-plan/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -56,8 +72,24 @@
   </url>
   
   <url>
+    <loc>/ib-psych/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/activities/science-pseudoscience/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/topics/research/theory-hypothesis/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/activities/fake-artist/</loc>
   </url>
   
   <url>

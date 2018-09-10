@@ -11,13 +11,30 @@
     
     
     <item>
-      <title>Credits</title>
-      <link>/ib-psych/credits/</link>
+      <title>Methods in psychology</title>
+      <link>/ib-psych/topics/research/methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ib-psych/credits/</guid>
-      <description>Contributors Thanks to them  for making Open Source Software a better place !
-.ghContributors{display:flex;flex-flow: wrap;align-content: flex-start}.ghContributors  div{width: 50% ;display: inline-flex;margin-bottom: 5px;}.ghContributors  div label{padding-left: 4px ;}.ghContributors  div span{font-size: x-small;padding-left: 4px ;}@matcornic139 commits@lierdakil16 commits@gwleclerc13 commits@mdavids10 commits@Xipas5 commits@mreithub3 commits@matalo333 commits@denisvm2 commits@gpospelov2 commits@lfalin2 commits@alexvargasbenamburg1 commits@afs20151 commits@MrMoio1 commits@giuliov1 commits@haitch1 commits@RealOrangeOne1 commits@tanzaho1 commits@JohnBlood1 commits@kamilchm1 commits@sykesm1 commits@ripienaar1 commits@EnigmaCurry1 commits@tedyoung1 commits@Thiht1 commits@fossabot1 commits@kamar5351 commits@nonumeros1 commits@proelbtn1 commits And a special thanks to @vjeantet for his work on docdock, a fork of hugo-theme-learn.</description>
+      <guid>/ib-psych/topics/research/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling</title>
+      <link>/ib-psych/topics/research/sampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/ib-psych/topics/research/ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/ethics/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -36,7 +53,47 @@ The activity follows classes on research. Students are given each question immed
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/ib-psych/activities/forer-effect/</guid>
-      <description></description>
+      <description>This activity is a good introduction to a scientific inquiry as well as discussion in the psychology vs parapsychology introduction. The Forer effect refers to the tendency of people to rate sets of statements as highly accurate for them personally even though the statements could apply to many people.
+Goal Show students the importance of specific vs vague statements, demonstrate why horoscopes and psychics work and why people tend to believe in these seemingly random encounters.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/ib-psych/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/resources/</guid>
+      <description> Other teaching sites  Teaching psychological science  </description>
+    </item>
+    
+    <item>
+      <title>Science or pseudoscience</title>
+      <link>/ib-psych/activities/science-pseudoscience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/activities/science-pseudoscience/</guid>
+      <description>This activity let&amp;rsquo;s students to pick a pseudoscientific or &amp;ldquo;junk&amp;rdquo; science topic, present to the class what it is and why it is junk science.
+Goal Distinguish between real sciences and pseudo sciences. Be clear that &amp;ldquo;unreal&amp;rdquo; things are not necessarily not scientific - what makes atoms more believable than ghosts to a general public without an electron microscope? Neither can be touched, neither can be seen.
+List of topics  Animal magnetism Graphology Fortune telling Rorschach test Neurolinguistics MBTI test Ouija board Telepathy Faith healing Telekinesis  Čištění 12.</description>
+    </item>
+    
+    <item>
+      <title>Theory vs hypothesis</title>
+      <link>/ib-psych/topics/research/theory-hypothesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/theory-hypothesis/</guid>
+      <description>What makes a good theory? It is a) testable b) leads to multiple testable hypotheses (not just one)</description>
+    </item>
+    
+    <item>
+      <title>Uncovering fake artist</title>
+      <link>/ib-psych/activities/fake-artist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/activities/fake-artist/</guid>
+      <description>Synesthesia is not an unknown or entirely uncommon thing, but still. If an artist claims she sells paintings of what she hears, you&amp;rsquo;d better be certain before you buy it and start boasting to your friends.
+Goal Design an experiment to prove synesthesia in an artist who claims so. Try approach it from different levels of anlaysis - bio vs cognitive. Practicing good hypothesis formulation. How to create hypothesis from theory.</description>
     </item>
     
     <item>

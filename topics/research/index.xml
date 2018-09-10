@@ -10,5 +10,41 @@
 	<atom:link href="/ib-psych/topics/research/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Methods in psychology</title>
+      <link>/ib-psych/topics/research/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling</title>
+      <link>/ib-psych/topics/research/sampling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/ib-psych/topics/research/ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory vs hypothesis</title>
+      <link>/ib-psych/topics/research/theory-hypothesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ib-psych/topics/research/theory-hypothesis/</guid>
+      <description>What makes a good theory? It is a) testable b) leads to multiple testable hypotheses (not just one)</description>
+    </item>
+    
   </channel>
 </rss>
