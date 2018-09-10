@@ -3,7 +3,7 @@ title="Forer effect, aka. blind reading"
 description=""
 +++
 
-This activity is a good introduction to a scientific inquiry as well as discussion in the psychology vs parapsychology introduction. It 
+This activity is a good introduction to a scientific inquiry as well as discussion in the psychology vs parapsychology introduction. The Forer effect refers to the tendency of people to rate sets of statements as highly accurate for them personally even though the statements could apply to many people.
 
 ## Goal
 
@@ -25,7 +25,7 @@ Have them "mark" each statement as "correct", "wrong", or neither. And then let 
 After they return the profile, start a discussion
 
 {{% notice tip %}}
-After they hand you in their results, you can do the vague statemnt activity (in files). And then followup with the discussion. 
+After they hand you in their results, you can do the *Which desert are you* activity (in files). And then followup with the discussion. 
 {{% /notice %}}
 
 ### Statements
@@ -45,7 +45,7 @@ After they hand you in their results, you can do the vague statemnt activity (in
 
 ## Discussion
 
-Before the discussion, give students the option to "guess" what this activity tried to accomplish. Then tell them abou the statemtns and that everybody got the same thing.
+Before the discussion, give students the option to "guess" what this activity tried to accomplish. Then tell them about the statemtns and that everybody got the same thing. 
 Discussion topics
 
 1. Why did you / didn't you think it described you well?

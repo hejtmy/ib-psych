@@ -37,3 +37,6 @@ Finish with the discussion about the results.
 3. Collect the data. Talk about the importance of sampling and blind study.
 4. Analyse the results.
 5. Discuss the results and perserverance of invalid theories
+
+## Links
+[Astrology](http://skepdic.com/astrology.html)
