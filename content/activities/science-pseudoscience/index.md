@@ -13,7 +13,7 @@ Distinguish between real sciences and pseudo sciences. Be clear that "unreal" th
 - Graphology
 - Fortune telling
 - Rorschach test
-- Neurolinguistics
+- Neurolinguistic programming
 - MBTI test
 - Ouija board
 - Telepathy

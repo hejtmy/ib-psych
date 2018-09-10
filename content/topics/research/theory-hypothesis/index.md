@@ -2,9 +2,6 @@
 title="Theory vs hypothesis"
 +++
 
-
-
-
 ## What makes a good theory?
 It is 
 a) testable
