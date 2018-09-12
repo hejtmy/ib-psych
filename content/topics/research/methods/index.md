@@ -1,4 +1,4 @@
 +++
 title="Methods in psychology"
-weight="15"
+weight=10
 +++

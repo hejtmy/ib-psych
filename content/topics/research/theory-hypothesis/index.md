@@ -1,5 +1,6 @@
 +++
 title="Theory vs hypothesis"
+weight=5
 +++
 
 ## What makes a good theory?

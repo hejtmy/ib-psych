@@ -9,3 +9,4 @@ pre = "<b>4. </b>"
 |----|-----|-------------|----------|
 |1|Introduction to psychology|||
 |2|Introduction to research||{{% activity "Forer effect" "forer-effect" %}}|
+|3|How to do research|||
