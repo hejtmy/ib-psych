@@ -1,4 +1,4 @@
 +++
-title="Methods in psychological research"
+title="Methods of psychological research"
 weight=15
 +++
