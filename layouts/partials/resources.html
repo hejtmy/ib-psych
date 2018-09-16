@@ -1,11 +1,28 @@
-{{$.Scratch.Set "data" $.Site.Data.resources}}
-{{$path := string $.Page.Dir}}
-{{$path := split (trim $path "\\") "\\"}}
-
-<ul>
+{{ $.Scratch.Set "data" $.Site.Data.resources}}
+{{ $path := split (trim (string $.Page.Dir) "\\") "\\"}}
 {{ range $path }}
-	{{ $d := index ($.Scratch.Get "data") .}}
-	<li>{{$d}}</li>
-	{{ $.Scratch.Set "data" $d}}
+  {{ $scratch := $.Scratch.Get "data"}}
+  {{ if $scratch}}
+    {{ $d := index  $scratch . }}
+    {{ $.Scratch.Set "data" $d}}
+  {{end}}  
 {{end}}
-</ul>
+
+{{$data := $.Scratch.Get "data"}}
+{{ if $data}}
+  <h2>Resources</h2>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+      <th>Type</th>
+    </tr>
+    {{range $data}}
+    <tr>
+      <td>{{.title}}</td>
+      <td>{{.url}}</td>
+      <td>{{.type}}</td>
+    </tr>
+    {{end}}
+  </table>
+{{end}}
