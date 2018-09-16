@@ -7,11 +7,19 @@
   </url>
   
   <url>
+    <loc>/ib-psych/topics/research/qualitative-quantitative/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/topics/research/</loc>
   </url>
   
   <url>
     <loc>/ib-psych/topics/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/topics/research/theory-hypothesis/</loc>
   </url>
   
   <url>
@@ -35,7 +43,7 @@
   </url>
   
   <url>
-    <loc>/ib-psych/topics/research/sampling/</loc>
+    <loc>/ib-psych/topics/research/design/</loc>
   </url>
   
   <url>
@@ -47,7 +55,7 @@
   </url>
   
   <url>
-    <loc>/ib-psych/topics/research/ethics/</loc>
+    <loc>/ib-psych/topics/research/sampling/</loc>
   </url>
   
   <url>
@@ -55,8 +63,16 @@
   </url>
   
   <url>
+    <loc>/ib-psych/topics/research/ethics/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/topics/developmental/disorders/</loc>
   </url>
   
   <url>
@@ -68,15 +84,27 @@
   </url>
   
   <url>
+    <loc>/ib-psych/topics/biology/genetics/</loc>
+  </url>
+  
+  <url>
     <loc>/ib-psych/</loc>
   </url>
   
   <url>
-    <loc>/ib-psych/activities/debunking-myths/</loc>
+    <loc>/ib-psych/topics/cognitive/memory/</loc>
   </url>
   
   <url>
-    <loc>/ib-psych/resources/</loc>
+    <loc>/ib-psych/topics/biology/methods/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/activities/observing-tv/</loc>
+  </url>
+  
+  <url>
+    <loc>/ib-psych/activities/debunking-myths/</loc>
   </url>
   
   <url>
@@ -89,7 +117,7 @@
   </url>
   
   <url>
-    <loc>/ib-psych/topics/research/theory-hypothesis/</loc>
+    <loc>/ib-psych/resources/</loc>
   </url>
   
   <url>
