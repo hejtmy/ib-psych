@@ -1,12 +1,21 @@
 [
 {
-	"title":"Interesting video",
-	"url":"/",
+	"title":"Genetics and intelligence",
+	"url":"https://www.youtube.com/watch?v=lev8dGnxvdw",
 	"type":"video"
 },
 {
-	"title":"Another interesting video",
-	"url":"/",
+	"title":"Genentics and behaviour",
+	"url":"https://www.youtube.com/watch?v=yPSRgcEpfWY",
 	"type":"video"
+},
+{
+	"title":"First domesticated fox",
+	"url":"https://www.youtube.com/watch?v=4dwjS_eI-lQ",
+	"type":"video"
+},
+{
+	"title":"Twin studies",
+	"url":"https://www.youtube.com/watch?v=l9JVCq1pkBs"
 }
 ]

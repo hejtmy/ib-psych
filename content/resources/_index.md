@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Teaching resources
 disableToc: true
 ---
 
