@@ -1,4 +1,4 @@
 +++
-title="Sampling"
-weight=20
+title="Sampling methods"
+weight=30
 +++

@@ -2,7 +2,6 @@
 title = "Evaluating research"
 description = "How to read and evaluate psychological research"
 +++
-{{% attachments /%}}
 
 This activity focuses on students ability to read and understand even complex articles. It's goal isn't necessarily for the student to understand everything in the text, but to be able to pinpoint important parts and to discuss valid points the article makes.
 

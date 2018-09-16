@@ -1,4 +1,4 @@
 +++
-title="Ethics"
-weight=30
+title="Ethics in psychological research"
+weight=50
 +++
