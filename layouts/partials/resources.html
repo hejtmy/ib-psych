@@ -1,0 +1,11 @@
+{{$.Scratch.Set "data" $.Site.Data.resources}}
+{{$path := string $.Page.Dir}}
+{{$path := split (trim $path "\\") "\\"}}
+
+<ul>
+{{ range $path }}
+	{{ $d := index ($.Scratch.Get "data") .}}
+	<li>{{$d}}</li>
+	{{ $.Scratch.Set "data" $d}}
+{{end}}
+</ul>
