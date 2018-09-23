@@ -1,5 +1,7 @@
 {{ $.Scratch.Set "data" $.Site.Data.resources}}
+{{ (trim ($.Page.Permalink | relURL) "/")}}
 {{ $path := split (trim ($.Page.Permalink | relURL) "/") "/"}}
+{{$path}}
 {{ range $path }}
   {{ $scratch := $.Scratch.Get "data"}}
   {{ if $scratch}}
