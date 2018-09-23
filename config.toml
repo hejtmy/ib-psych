@@ -1,4 +1,4 @@
-baseURL = "hejtmy.github.io/ib-psych/"
+baseURL = "https://hejtmy.github.io/ib-psych/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 disableLanguageSwitchingButton=true
