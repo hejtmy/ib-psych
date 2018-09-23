@@ -1,0 +1,4 @@
+{{$page := .Site.GetPage (print "topics/" (index .Params 0) "/index.md")}}
+{{if $page}}
+	<a href="{{$page.Permalink}}">{{$page.Title}}</a>
+{{end}}
