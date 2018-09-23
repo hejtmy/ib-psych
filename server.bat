@@ -1,1 +1,0 @@
-hugo server --baseURL="localhost:1313/ib-psych" --appendPort=false
