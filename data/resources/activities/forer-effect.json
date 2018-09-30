@@ -1,0 +1,22 @@
+[
+	{
+		"title":"Wikipedia page",
+		"type":"Wikipedia",
+		"url":"https://en.wikipedia.org/wiki/Barnum_effect"
+	},
+	{
+		"title":"Skeptic overview",
+		"type":"website",
+		"url":"http://skepdic.com/forer.html"
+	},
+	{
+		"title":"Barnum statements",
+		"type":"website",
+		"url":"https://derekrake.com/blog/barnum-statements/"
+	},
+	{
+		"title":"An Astrologer Guesses Strangers' Zodiac Sign",
+		"type":"video",
+		"url":"https://www.youtube.com/watch?v=rd-yH8hzTLs"
+	}
+]

@@ -60,13 +60,4 @@ It is a good idea to analyse their results and potentially pinpoint those questi
 asdf
 {{% /notice %}}
 
-## 
-
-## Online resources
-- [Wiki page](https://en.wikipedia.org/wiki/Barnum_effect)
-
-- [Forer effect on Skeptic](http://skepdic.com/forer.html)
-
-- [Barnum statements](https://derekrake.com/blog/barnum-statements/)
-
 {{% attachments %}}
