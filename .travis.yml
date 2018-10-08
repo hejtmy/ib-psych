@@ -5,6 +5,7 @@ go:
 
 env:
   global:
+    - HUGO_VERSION=0.49
     - secure: "RyNXfakjBuq2+ZLpYcav6Qyk3c9xN8K3lLPZWjL8sj7osJcq9EjTpLd2y8kcn9Wbf1slws3ejus0lf3PgoJqiRJ5kKYK5Vl08so+WvBP6mamyL2NRiQmn65dl3knkcUWxqnjB1cEHCCfUB0wBrT0bE+goXOkFuzjERxCoWRUxwPofZ/wmYYUPEa5fQCqcZSuTmoSLX7DMvCRRtl045TlR9OyhIAN3EwyX9D5eAerkons249ZE8a8lFLCiFH0JzeLWVb6dIoCOwsJxxNeYbxTX5HdPDQC6blpof+CprcqnhXnta9afD3vrdhgtkJNR79Zn9NaU0eR/E0chYotCvPpdyvUqrKknMYuf8aAObj0U8SKB2FKFWv3GgLhwyKhh1ZxEuO6BDqXpDHXa2AjG26C4HX127ibCGb4tIgpd0okIbc7FN06OTJONHMTH3yFHQLm68q1oNmiykeCGq48Z24EZP/NJD9CMw/+cg1GEsrhARXZDfQqYwH/aWuhNYQGs+q0OpvSqYV1LxAMK/6Z9vKm3UUxPkkQ8ISqy5g7TdcjjgIukrjHCzYOYqgcRTqta2mkG7jl33r94M6m0dQZ5x2j87bgbq+jlMIJ5o0+ZCxs1HY1mw3VpnOLyOs8CXEOEdw0fa4HDQXjA+Jyye9LyinO4/yNwej5irUR8Eu3HThv7jw="
     - GIT_DEPLOY_DIR=public # this is the default output dir of Hugo
     - GIT_DEPLOY_BRANCH=gh-pages # this is the target branch, replace by gh-pages for Project Pages
@@ -16,14 +17,15 @@ branches:
     - master # replace by master for Project Pages
 
 before_script:
-    - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-    - go get -v github.com/gohugoio/hugo
+    - curl -L https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+      - o bin/hugo.tar.gz
+    - tar xzvvf bin/hugo.tar.gz -C ./bin
 
 install:
   - rm -rf public || exit 0 # cleanup previous run
 
 script:
-  - hugo
+  - ./bin/hugo"
 
 after_success:
   - 'if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then cp .travis.yml public; fi' # all branches need this file
