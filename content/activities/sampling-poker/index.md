@@ -8,8 +8,6 @@ This activity shows the importance of sampling methods and how sample is just a 
 ## Structure
 You will need either a bunch of poker chips of varied denominations or some marbles, papers with printed numbers etc. You also need sachets, bags or cups which will serve as a draw bags for the chips for the students. The good chip numebrs to choose can be either normal chip denominations, or better to tie it to another psychological scale, such as Extraversion T-score, or memory span etc.
 
-
-
 Create several "groups" of 7 chips which will have different expected average value but with different "variables". The values below are from a range of 1-10 with different average expectation in each group and expectation of 5.4 overall.
 
 |Group |Description|Average value|Values|
@@ -25,7 +23,6 @@ To demonstrate opportunistic sampling, explain that each bag is a school of kids
 
 {{% /notice %}}
 
-
 ## Task
 ### Between group comparisons
 1. Select two chips from each group and report average.
@@ -35,3 +32,5 @@ To demonstrate opportunistic sampling, explain that each bag is a school of kids
 ### Population description
 4. You can only select 10 in total. What is the average of the entire population.
 5. I am going to label the bags. You can now select only 10 in total. Which you gonna sample?
+
+
