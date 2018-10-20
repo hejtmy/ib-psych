@@ -3,8 +3,9 @@ title="Cognitive development"
 weight=10
 +++
 
-# Introductions
+{{% attachments %}}
 
+# Introductions
 
 # Jean Piaget
 
@@ -20,6 +21,4 @@ weight=10
 
 ### Zone of proximal development
 
-
 ## Social and economic aspects of cognitive development
-
