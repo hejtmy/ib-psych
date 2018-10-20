@@ -60,4 +60,4 @@ It is a good idea to analyse their results and potentially pinpoint those questi
 asdf
 {{% /notice %}}
 
-{{% attachments %}}
+{{% attachments /%}}

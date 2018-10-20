@@ -4,4 +4,4 @@ description = "Definition of what is science and what is not"
 type="activity"
 +++
 
-{{% attachments %}}
+{{% attachments /%}}
