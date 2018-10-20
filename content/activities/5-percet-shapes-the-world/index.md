@@ -18,5 +18,4 @@ Finish the instructions so that the specifically say where to go. GO outside, gi
 1. Hwo to relate results to real world - politics, social movements?
 2. Why does it work at all?
 
-
-
+{{% attachments /%}}
