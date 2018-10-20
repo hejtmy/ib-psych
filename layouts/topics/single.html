@@ -2,6 +2,10 @@
 
 {{ .Content }}
 
+{{if .Params.activities}}
+	{{ partial "activities" .}}
+{{end}}
+
 {{ partial "resources.html" .}}
 
 <footer class=" footline" >

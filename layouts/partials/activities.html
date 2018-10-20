@@ -1,0 +1,12 @@
+{{if(gt (len .Params.activities) 0)}}
+<div class="notices activities">
+	<p>
+		{{range .Params.activities}}
+			{{$page := $.Site.GetPage (print "activities/" . "/index.md")}}
+			{{if $page}}
+				<a href="{{$page.Permalink}}">{{$page.Title}}</a>,
+			{{end}}
+		{{end}}
+	</p>
+</div>
+{{end}}
