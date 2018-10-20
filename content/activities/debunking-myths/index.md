@@ -1,5 +1,6 @@
 +++
 title="Psychological mythbusters"
+description = "How psychological knowledge is constructed and how it is constructed wrong"
 +++
 
 ## Goal

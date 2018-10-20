@@ -1,5 +1,6 @@
 +++
 title="Sampling poker chips"
+description = "Examples of sampling procedures and how they can give us biased results"
 +++
 
 ## Goal

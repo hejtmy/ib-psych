@@ -1,5 +1,6 @@
 +++
 title = "5 percent can shape the world"
+description = "How a few people can sway the rest of the world to their cause"
 +++
 
 This activity shows that social change doesn't have to be directed by masses or majority, but few goal oriented individuals can shape the stream of river of human aimlessness. Students get an instruction to walk freely and follow others, with a small percentage of them getting clear instructions of what to do - walk towards a basketball court, walk towards a door.
@@ -15,6 +16,7 @@ Finish the instructions so that the specifically say where to go. GO outside, gi
 
 ## Discussion
 1. Hwo to relate results to real world - politics, social movements?
+2. Why does it work at all?
 
 
 
