@@ -2,7 +2,7 @@
 title="Research design"
 weight=15
 +++
-{{% attachments %}}
+{{% attachments /%}}
 
 ## Unit plan
 It is good idea to start with the key terms activity to see that you have covered everything necessary. 
@@ -33,7 +33,6 @@ Test-retest
 Inter-rater reliability
 
 ## Research design
-
 
 ### Extraneous variables
 Demand characteristics

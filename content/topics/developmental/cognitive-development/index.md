@@ -3,7 +3,7 @@ title="Cognitive development"
 weight=10
 +++
 
-{{% attachments %}}
+{{% attachments /%}}
 
 # Introductions
 
