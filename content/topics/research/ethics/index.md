@@ -38,7 +38,7 @@ IRB is presented with a full documentation of a research proposal, including but
 - topic and purpose of the study 
 - research design and procedure
 - type of data to be collected (what type of personal data are you collecting, are you collecting any personal identificators)
-- location of data storage (where will you keep the data and how will you assure anonymity)
+- location of data storage (where will you keep the data and how will you assure anonymity, how will you make sure you don't lose it?)
 - description of a population (who will be in the sample and why)
 - sampling procedure (how will you sample and why)
 - informed consent (what is in and how to obtain)
@@ -58,4 +58,35 @@ Some elements which IRB review will discuss include
 - Assessment is the study is worth it - if the benefits for the field are not significant, it might not get a pass (problems for replication studies)
 - Assessment if the research is just - it benefits all people the same, not only a certain minority
 - Assessment of research sample and possible misuse of power relationship - special protection of minorities, such as prisoners, children etc. Using prisoners for a prison related research is fine, selecting them for a study of visual acuity is probably bordering misuse of power.
-- Assessment of no conflict of interest in studiet theme
+- Assessment of conflict of interest
+
+### Types of IRB review
+
+There are generally three types of IRB review process.
+
+- Exempt - no review necessary (you still submit all the materials, but ask for an exempt based)
+- Expedited - fast review for studies posing no more than minimal risk for the subject
+- Full - full board review, usually for studies involving children, minorities or posing more than minimal risk
+
+Which category falls on your research is based on specific criteria at a particular institution, but some rules are generally the same across the board:
+
+Exempt from IRB review is research:
+
+- with non identifiable subjects 
+- using existing and publicly available information
+- research in educational settings for the immediate benefit which will not lead to identification of individuals
+- research or demonstration for public benefit
+- food liking research in shopping malls :)
+
+Expedited IRB review will be available for research:
+
+- posing no more than minimal risk
+- where identification of participants would not place them at risk
+- which is not classified
+
+## Other ethical issues
+The ethical questions do not end with the study being over. Researchers are still responsible for the data to remain anonymous, but in some case also for the data "not to get lost" or not to get to the wrong hands. Researchers are also responsible for the correct interpretation of their results which is in concordance with the assessment of benefits - e.g. if the study was about visual acuity but the data is eventually used to asses racial differences based on the visual processing, that should require a new IRB review. 
+
+Correct reporting of results is also in accordance with the first rule of the Belomont report. The participants gave us their time and we should respect their decision and use their contribution in a meaningul manner. In that sense, not publishing collected data is sometimes also considered unethical, although there is a battle between not publishing collected data and publishing misinterpreted research results (as you never know, what data will you get).
+
+{{% attachments \%}}
