@@ -31,7 +31,7 @@ As far as a concrete specific practices, there are certain rights each participa
 3. Right to remain anonymous
 
 ## IRB reveiw
-Internal Review Board serves as a corrector of possible malpractices spiralling in any given institution. Although not always required by law, IRBs are a necessary element of a research institution to make sure that research is not only abiding by the law, but also by the Human Rights or the rules established by the Belmont report.
+Institutional Review Board serves as a corrector of possible malpractices spiralling in any given institution. Although not always required by law, IRBs are a necessary element of a research institution to make sure that research is not only abiding by the law, but also by the Human Rights or the rules established by the Belmont report.
 
 IRB is presented with a full documentation of a research proposal, including but not limited to:
 
