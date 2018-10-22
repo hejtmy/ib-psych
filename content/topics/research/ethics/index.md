@@ -11,7 +11,7 @@ Needless to say,
 
 National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research in the 1978 issues a report on proper behavioural and biomedicinal research.  
 
-The three fundamental ethical principles for using any human subjects for research are:[2]
+The three fundamental ethical principles for using any human subjects for research are:
 
 1. Respect for persons: protecting the autonomy of all people and treating them with courtesy and respect and allowing for informed consent. Researchers must be truthful and conduct no deception;
 2. Beneficence: The philosophy of "Do no harm" while maximizing benefits for the research project and minimizing risks to the research subjects; and
@@ -24,7 +24,7 @@ That is being put into practice through
 3. Selection of Subjects
 
 While scientist's curiosity is a good reason to conduct a research, it is not a completely good reason to take away time from people. Thus any study requiring participation from human subjects should assess it's benefits to justify the means.
-As far as a concrete specific practices, there are certain rights each participant has and which should be folowed:
+As far as a concrete specific practices, there are certain rights each participant has and which should be followed:
 
 1. Right to know about the purpose of the study (informed consent, debriefing, results sharing)
 2. Right for fair treatment (right to quit the study at any point)
