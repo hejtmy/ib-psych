@@ -16,3 +16,4 @@ Students are given a filled in IRB which they go over thoroughly and then they a
 
 ## Followup
 
+{{% attachments /%}}
