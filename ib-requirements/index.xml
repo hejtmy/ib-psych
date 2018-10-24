@@ -10,5 +10,16 @@
 	<atom:link href="https://hejtmy.github.io/ib-psych/ib-requirements/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Paper 3</title>
+      <link>https://hejtmy.github.io/ib-psych/ib-requirements/paper-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/ib-requirements/paper-3/</guid>
+      <description>Paper 3 Paper 3 assesses the approaches to research in psychology. The paper consists of a research scenario followed by a three short answer questions for a total of 24 marks.
+Content Question 1 Question 1 will consist of all of the following questions, for a total of 9 marks. The questions will be assessed using an analytical markscheme.
+ Identify the method used and outline two characteristics of the method.</description>
+    </item>
+    
   </channel>
 </rss>
