@@ -15,13 +15,11 @@
     <tr>
       <th>Name</th>
       <th>URL</th>
-      <th>Type</th>
     </tr>
     {{range $data}}
     <tr>
       <td>{{.title}}</td>
       <td><a href="{{.url}}">{{.url}}</a></td>
-      <td>{{.type}}</td>
     </tr>
     {{end}}
   </table>
