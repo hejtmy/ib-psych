@@ -1,7 +1,8 @@
 +++
 title="Research design"
-weight=15
+weight=10
 +++
+
 {{% attachments /%}}
 
 ## Unit plan
@@ -17,25 +18,10 @@ Whereas definition talks about what a thing like happiness is, operationalisatio
 
 Old intelligence tests for example tackled a lot of mathematical thinking or memory, completely ignoring verbal or spatial skills. Some tests of memory asked people to remember numbers, ignoring that some people are rubbish at remembering numbers but they can remember thousands of faces and names. How we define and how we operationalise our terms will define if our research is [valid](#validity).
 
-## Measures of good science
-Research is not 
+## Types of experimental design
 
-### Validity
-Types of validity
+### Within subject design
 
+### Between subject design
 
-### Reliability
-Unreliable test is always also not valid. Even seemingly "unreliable" results which are consistent with the prediction are considered reliable - e.g. tests for immediate stress levels are reliable when tested in the same conditions.
-
-#### Types of reliability
-Test-retest
-
-Inter-rater reliability
-
-## Research design
-
-### Extraneous variables
-Demand characteristics
-
-Blind and double blind study
-
+### Matched pairs
