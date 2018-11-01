@@ -10,5 +10,18 @@
 	<atom:link href="https://hejtmy.github.io/ib-psych/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Summary emails</title>
+      <link>https://hejtmy.github.io/ib-psych/resources/summary-emails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/resources/summary-emails/</guid>
+      <description>Structure Dear clas
+Summary: This week we &amp;hellip;.
+Homework: For the next week you should &amp;hellip;.
+Reminders: Don&amp;rsquo;t forget that &amp;hellip;.
+Funny Gif</description>
+    </item>
+    
   </channel>
 </rss>
