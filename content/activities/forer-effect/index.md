@@ -56,8 +56,5 @@ Discussion topics
 ## Follow up
 It is a good idea to analyse their results and potentially pinpoint those questions in which most people answered true/false. 
 
-{{% notice info %}}
-asdf
-{{% /notice %}}
 
 {{% attachments /%}}
