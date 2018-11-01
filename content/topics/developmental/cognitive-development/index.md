@@ -5,9 +5,9 @@ weight=10
 
 {{% attachments /%}}
 
-# Introductions
+## Introductions
 
-# Jean Piaget
+## Jean Piaget
 
 ### Sensorimotor stage
 
@@ -24,5 +24,8 @@ There is a nice debate to what extent this is a human thing to have? Do animals 
 ## Lev Vygotsky
 
 ### Zone of proximal development
+
+
+
 
 ## Social and economic aspects of cognitive development
