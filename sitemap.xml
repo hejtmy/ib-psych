@@ -136,6 +136,20 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/cognitive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/activities/cognitive-theories-in-classroom/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/developmental/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/topics/developmental/</loc>
   </url>
   
@@ -149,6 +163,10 @@
   
   <url>
     <loc>https://hejtmy.github.io/ib-psych/activities/forer-effect/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/activities/news-reporting-development/</loc>
   </url>
   
   <url>
@@ -169,6 +187,11 @@
   
   <url>
     <loc>https://hejtmy.github.io/ib-psych/activities/debunking-myths/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/research/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
