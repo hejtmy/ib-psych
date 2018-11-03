@@ -33,29 +33,33 @@ Let them "browse" the paper and answer questions 1-4. Then, after each lesson on
 ## Questions
 1. What was the purpose of the study
 
-2. What was the hypothesis?
+2. What were the hypotheses?
 
 3. What was the conclusion?
 
 4. What did the authors say that can be a problem with their conclusion?
 
-5. What was the method used for the research? Describe it.
+5. What was the method used for the research? Describe it and explain whhy it was chosen.
 
-6. If the research had independent and dependent variables, describe what they
-were and how they were operationalised.
+6. What was the research design used? (within subject, between subject, matched pairs)
 
-7. Can the results be generalized to bigger sample? To which one and which
-one not?
+7. What other methods could authors use to study their theory? Describe at least one and compare it to the one they used.
 
-8. Does the research seem valid? (Or does it strike you as weird, too laboratory,
-not well designed, unusable etc.). What problems did you have with the
-method?
+8. If the research had independent and dependent variables, describe what they were and how they were operationalised.
 
-9. Was the method well chosen for the problem? Can you think of a better one?
+9. Can the results be generalized to bigger sample? To which one and which one not?
 
-10. Was the study ethical? Explain.
+10. Does the research seem valid? (Or does it strike you as weird, too laboratory, not well designed, unusable etc.) Explain and provide examples.
 
-11. Concluding remarks. If you want to note something more, please do so.
+11. What was the sampling method used in the paper?
+
+12. Was the sampling method well chosen? Explain and provide alternatives.
+
+13. Was the research conducted ethically according to the principles laid out by the Belmont report? State why - what was done and what wasn't.
+
+14. Does the research follow the APA code [link](http://www.apa.org/ethics/code/)?
+
+15. Was there some potential danger regardless of the ethical requirements being supposedly met? How it could have been prevented or diminished?
 
 ### Recomended journals
 | Authors                                                                               | Title                                                                                                            | Journal                                        | Full journal                                                                    | Publication year |
