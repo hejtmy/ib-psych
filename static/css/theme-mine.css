@@ -110,3 +110,7 @@ div.notices.activities p {
 div.notices.activities p:first-child:after{
     content:"Activities"
 }
+
+.source-link{
+    text-align: center;
+}
