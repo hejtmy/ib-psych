@@ -87,16 +87,19 @@ studies.
 15. Was there some potential danger regardless of the ethical requirements being supposedly met? How it could have been prevented or diminished?
 
 -------------------
+Heston
 
-1. What was the purpose of the study
+1. The purpose of the study was to find out whether the aetiology of schizophrenia is truly genetic, and the higher incidence of the disorder among relatives of schizophrenic individuals (proven by previous research) isn't in fact caused by the distorted interpersonal environment those individuals might bring about when raising their children, but also to investigate whether the presence of schizophrenia in one’s genetic makeup will increase their likelihood of developing different mental disorders.
 
-2. What were the hypotheses?
+2. The researchers have hypothesised that the aetiology of schizophrenia is truly genetic, and
+therefore there will be a greater incidence of individuals with a diagnosis of schizophrenia in the
+experimental group than the control group.
 
-3. What was the conclusion?
+3. The results of the study confirm the initial hypothesis, as there was a greater incidence of schizophrenic and sociopathic personality disorders in the test group than in the control group, exceeding the level of probability. The data further suggests that the presence of schizophrenia in one’s genetic makeup increases the probability that said individual will experience different kinds of psychosocial disability, as the experimental group has included a significantly larger number of individuals diagnosed with mental illnesses such as anti-social or neurotic personality disorders, as well as mentally deficient individuals
 
 4. What did the authors say that can be a problem with their conclusion?
 
-5. What was the method used for the research? Describe it.
+5. The researchers followed a group of individuals that were born to schizophrenic mothers but separated from them at birth, and compared their findings to a control group consisting of individuals that were brought up in comparable conditions but their relatives have no known history of schizophrenia. The evaluation of the subjects was based on the analysis of various public records (available from various police agencies, Veterans’ Administration, all psychiatric hospitals in the area and schools as well as newspaper files and court actions), social class values assigned according to the classification system of Hollingshead, information obtained from the relatives, friends and employers of the subjects, a battery test (IQ test, if results not available from other sources, and MMPI) and an interview.
 
 6. Was the method well chosen for the research purposes? Explain why.
 
