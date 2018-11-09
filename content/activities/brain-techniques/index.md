@@ -7,7 +7,7 @@ source= "www.psychlotron.com"
 +++
 {{% attachments /%}}
 
-Each table covers one method for investigating the brain.  You need to:
+Each table covers one method for investigating the brain. You need to:
 
 - Understand what the method involves
 - Interpret data from the method to understand how it works and what it tells us

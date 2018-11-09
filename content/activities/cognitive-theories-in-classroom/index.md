@@ -12,7 +12,8 @@ Overview placeholder
 ## Structure
 
 ## Discussion
-With the use of the article in attachments, try and answer the questions below
+With the use of the article in attachments, try and answer the questions below:
+
 1. What are some fundamentals elements of Piaget and Vygotsky's theories?
 2. What is the process of equilibrium and how it relates to teaching?
 3. What is internalisation? Why do kids speak to themselves? Why is language important?
