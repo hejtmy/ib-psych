@@ -10,3 +10,6 @@ b) leads to multiple testable hypotheses (not just one)
 
 
 ## Process of science
+
+
+## Hypothesis testing
