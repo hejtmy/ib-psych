@@ -127,6 +127,10 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/topics/research/statistics/</loc>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/activities/5-percet-shapes-the-world/</loc>
   </url>
   
@@ -136,6 +140,11 @@
   
   <url>
     <loc>https://hejtmy.github.io/ib-psych/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/chi-square/</loc>
     <priority>0</priority>
   </url>
   
@@ -207,6 +216,20 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/categories/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/categories/sampling/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</loc>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/activities/sampling-poker/</loc>
   </url>
   
@@ -215,7 +238,21 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/statistics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/categories/statistics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/resources/summary-emails/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/activities/t-test-tongue-twisters/</loc>
   </url>
   
   <url>

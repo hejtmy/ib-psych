@@ -38,7 +38,7 @@
       
       <guid>https://hejtmy.github.io/ib-psych/topics/research/theory-hypothesis/</guid>
       <description> What makes a good theory? It is a) testable b) leads to multiple testable hypotheses (not just one)
-Process of science </description>
+Process of science Hypothesis testing </description>
     </item>
     
     <item>
@@ -219,6 +219,15 @@ Content Question 1 Question 1 will consist of all of the following questions, fo
     </item>
     
     <item>
+      <title>Statistics in psychological science</title>
+      <link>https://hejtmy.github.io/ib-psych/topics/research/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/topics/research/statistics/</guid>
+      <description>Statistics allow us to determine laws in otherwise random world. Things happen with some level or randomness (error term in statistics). If you get A from a single math test and your friend gets a B, you would probably say it can be due to chance. But if you get an average of 85 points over 5 tests whereas your friend gets 77, you might start to think you are just better at Match.</description>
+    </item>
+    
+    <item>
       <title>5 percent can shape the world</title>
       <link>https://hejtmy.github.io/ib-psych/activities/5-percet-shapes-the-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -349,6 +358,17 @@ Myth selection  We learn more effectively when taught via our preferred “learn
     </item>
     
     <item>
+      <title>Sampling Smarties</title>
+      <link>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</guid>
+      <description>Students buy smarties boxes and then count how many of each colour is in each box. Then we do statistical tests to determine some level of
+Goal This activity trains students in sampling and statistics. Students should understand how to select an appropriate sample and how to conduct statistical analysis in excel or in other statistical software.
+Structure Explain the goal of the research: To assess if the smarties come in</description>
+    </item>
+    
+    <item>
       <title>Sampling poker chips</title>
       <link>https://hejtmy.github.io/ib-psych/activities/sampling-poker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -380,6 +400,16 @@ Summary: This week we &amp;hellip;.
 Homework: For the next week you should &amp;hellip;.
 Reminders: Don&amp;rsquo;t forget that &amp;hellip;.
 Funny Gif</description>
+    </item>
+    
+    <item>
+      <title>T Test Tongue Twisters</title>
+      <link>https://hejtmy.github.io/ib-psych/activities/t-test-tongue-twisters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/activities/t-test-tongue-twisters/</guid>
+      <description>Students read tongue twisters in pairs and then we test who is better in the pair using parametric and non parametric t-test.
+Goal The goal is to see randomness in repeating the task even in one setting. To learn t-test in excel, R or python. Studnets also learn the limitatios of some tests - having test with 3 right answers will not give enough variation ot assess what you want to assess.</description>
     </item>
     
     <item>

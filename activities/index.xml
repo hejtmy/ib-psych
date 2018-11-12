@@ -113,6 +113,17 @@ Myth selection  We learn more effectively when taught via our preferred “learn
     </item>
     
     <item>
+      <title>Sampling Smarties</title>
+      <link>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</guid>
+      <description>Students buy smarties boxes and then count how many of each colour is in each box. Then we do statistical tests to determine some level of
+Goal This activity trains students in sampling and statistics. Students should understand how to select an appropriate sample and how to conduct statistical analysis in excel or in other statistical software.
+Structure Explain the goal of the research: To assess if the smarties come in</description>
+    </item>
+    
+    <item>
       <title>Sampling poker chips</title>
       <link>https://hejtmy.github.io/ib-psych/activities/sampling-poker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +142,16 @@ Structure You will need either a bunch of poker chips of varied denominations or
       <description>This activity let&amp;rsquo;s students to pick a pseudoscientific or &amp;ldquo;junk&amp;rdquo; science topic, present to the class what it is and why it is junk science.
 Goal Distinguish between real sciences and pseudo sciences. Be clear that &amp;ldquo;unreal&amp;rdquo; things are not necessarily not scientific - what makes atoms more believable than ghosts to a general public without an electron microscope? Neither can be touched, neither can be seen.
 List of topics  Animal magnetism Graphology Fortune telling Rorschach test Neurolinguistic programming MBTI test Ouija board Telepathy Faith healing Telekinesis  Čištění 12.</description>
+    </item>
+    
+    <item>
+      <title>T Test Tongue Twisters</title>
+      <link>https://hejtmy.github.io/ib-psych/activities/t-test-tongue-twisters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/activities/t-test-tongue-twisters/</guid>
+      <description>Students read tongue twisters in pairs and then we test who is better in the pair using parametric and non parametric t-test.
+Goal The goal is to see randomness in repeating the task even in one setting. To learn t-test in excel, R or python. Studnets also learn the limitatios of some tests - having test with 3 right answers will not give enough variation ot assess what you want to assess.</description>
     </item>
     
     <item>

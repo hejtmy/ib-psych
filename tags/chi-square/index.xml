@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi Square on Documentation for Hugo Learn Theme</title>
+    <link>https://hejtmy.github.io/ib-psych/tags/chi-square/</link>
+    <description>Recent content in Chi Square on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://hejtmy.github.io/ib-psych/tags/chi-square/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sampling Smarties</title>
+      <link>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/activities/sampling-smarties/</guid>
+      <description>Students buy smarties boxes and then count how many of each colour is in each box. Then we do statistical tests to determine some level of
+Goal This activity trains students in sampling and statistics. Students should understand how to select an appropriate sample and how to conduct statistical analysis in excel or in other statistical software.
+Structure Explain the goal of the research: To assess if the smarties come in</description>
+    </item>
+    
+  </channel>
+</rss>
