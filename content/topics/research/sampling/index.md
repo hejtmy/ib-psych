@@ -1,7 +1,7 @@
 +++
 title="Sampling methods"
 weight=30
-activities=["sampling-poker"]
+activities=["sampling-poker", "sampling-smarties"]
 +++
 
 Sampling is a process of selecting part of target population to be studied. In an optimal world, we would measure everybody. Measuring everybody would allow us to perfectly describe the population and get to something called "True mean". If we get everybody's height, we don't need to run statistics. We don't need to "test" for group differences, we can be certain about our assertions regardless of statistics.

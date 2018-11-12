@@ -2,7 +2,7 @@
 title = "Sampling Smarties"
 description = "Do smarties come in all the colours?"
 tags = ["statistics", "chi square"]
-categories = ["research","statistics"]
+categories = ["research","statistics", "sampling"]
 +++
 Students buy smarties boxes and then count how many of each colour is in each box. Then we do statistical tests to determine some level of 
 
@@ -20,7 +20,7 @@ Then have each group count colors in each box and put it in a table. Send the ta
 
 Try different versions - muted colors vs saturated colors. Base colors (RGB(Y)) vs other colors etc.
 
-Have a discussion on what this exactly represents in psychological research (each smartie box is a person which has different levels of some traits.)
+Have a discussion on what this exactly represents in psychological research (each smartie box is a person which has different levels of some traits).
 
 ### Schedule
 
