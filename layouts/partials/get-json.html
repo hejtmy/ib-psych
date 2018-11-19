@@ -1,0 +1,8 @@
+{{ $path := split (trim ($.Page.Permalink | relURL) "/") "/"}}
+{{ range after 1 $path }}
+	{{ $scratch := $.Scratch.Get "data"}}
+  {{ if $scratch}}
+		{{ $d := index  $scratch . }}
+    {{ $.Scratch.Set "data" $d}}
+  {{end}}  
+{{end}}

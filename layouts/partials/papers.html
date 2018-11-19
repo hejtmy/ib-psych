@@ -1,5 +1,12 @@
-{{ $.Scratch.Set "data" $.Site.Data.resources}}
-{{ partial "get-json" . }}
+{{ $.Scratch.Set "data" $.Site.Data.papers}}
+{{ $path := split (trim ($.Page.Permalink | relURL) "/") "/"}}
+{{ range after 1 $path }}
+  {{ $scratch := $.Scratch.Get "data"}}
+  {{ if $scratch}}
+    {{ $d := index  $scratch . }}
+    {{ $.Scratch.Set "data" $d}}
+  {{end}}  
+{{end}}
 
 {{$data := $.Scratch.Get "data"}}
 {{ if $data}}
