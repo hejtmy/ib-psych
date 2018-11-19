@@ -8,6 +8,7 @@ theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
+disqusShortname = "ib-psych"
 
 [params]
   editURL = "https://github.com/hejtmy/ib-psych/tree/master/content/"

@@ -8,6 +8,8 @@
 
 {{ partial "resources.html" .}}
 
+{{ partial "disqus.html" . }}
+
 <footer class=" footline" >
 	{{with .Params.LastModifierDisplayName}}
 	    <i class='fas fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fas fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
