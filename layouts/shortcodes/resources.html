@@ -1,3 +1,26 @@
-{{ range $.Site.Data.resources.biology.genetics }}
-	{{.title}}
-{{ end }}
+{{ $.Scratch.Set "data" $.Site.Data.resources}}
+{{ $path := split (trim ($.Page.Permalink | relURL) "/") "/"}}
+{{ range after 1 $path }}
+  {{ $scratch := $.Scratch.Get "data"}}
+  {{ if $scratch}}
+    {{ $d := index  $scratch . }}
+    {{ $.Scratch.Set "data" $d}}
+  {{end}}  
+{{end}}
+
+{{$data := $.Scratch.Get "data"}}
+{{ if $data}}
+  <h2>Resources</h2>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+    </tr>
+    {{range $data}}
+    <tr>
+      <td>{{.title}}</td>
+      <td><a href="{{.url}}">{{.url}}</a></td>
+    </tr>
+    {{end}}
+  </table>
+{{end}}
