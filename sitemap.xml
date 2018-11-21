@@ -167,12 +167,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/developmental/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/developmental/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/developmental/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/developmental/</loc>
     <priority>0</priority>
   </url>
   
@@ -217,6 +217,11 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/tags/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/tags/observation/</loc>
     <priority>0</priority>
   </url>
@@ -230,12 +235,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/research/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/research/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/research/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/research/</loc>
     <priority>0</priority>
   </url>
   
@@ -257,12 +262,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/statistics/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/statistics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/statistics/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/statistics/</loc>
     <priority>0</priority>
   </url>
   
