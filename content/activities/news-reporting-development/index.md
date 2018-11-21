@@ -2,7 +2,7 @@
 title="How news and research reporting differs"
 description = ""
 topics=["developmental/cognitive-development"]
-tags = ["developmental", "cognitive", "research"]
+tags = ["developmental", "cognitive", "research", "news"]
 +++
 
 ## Goal
