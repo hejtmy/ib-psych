@@ -172,7 +172,7 @@
 	"title": "Genetics and heredity",
 	"tags": [],
 	"description": "",
-	"content": " Resources   Name URL   Genetics and intelligence https://www.youtube.com/watch?v=lev8dGnxvdw   Genentics and behaviour https://www.youtube.com/watch?v=yPSRgcEpfWY   First domesticated fox https://www.youtube.com/watch?v=4dwjS_eI-lQ   Twin studies https://www.youtube.com/watch?v=l9JVCq1pkBs   Second look at twin studies by APA https://www.apa.org/monitor/apr04/second.aspx   What makes us? Nature or nurture? The DNA debate comes back to life https://www.theguardian.com/science/2018/nov/11/nature-or-nurture-debate-three-identical-strangers-film   "
+	"content": " Central dogma Studies Knockouts "
 },
 {
 	"uri": "https://hejtmy.github.io/ib-psych/topics/cognitive/perception/",
@@ -236,6 +236,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Statistics allow us to determine laws in otherwise random world. Things happen with some level or randomness (error term in statistics). If you get A from a single math test and your friend gets a B, you would probably say it can be due to chance. But if you get an average of 85 points over 5 tests whereas your friend gets 77, you might start to think you are just better at Match. BUT that is your opinion, not a proof. It can all be due to some level or randomness in teachers evaluation or your own performance fluctuation. Statistical tests will estimate these fluctuations (standard deviation) and then asses if the difference in scorese (85 vs 77) can be explained just by these random events or if it is more likely there is an underlying difference in your Math skills.\nTypes of data We can separate our numeric data into continuous vs discrete.\nNon parametric/categorical data Categorical variables come in two forms: nominal and ordinal. We have no way to \u0026ldquo;sort\u0026rdquo; nominal data, but we can sort ordinal data - income level, finishing position in a race.\nFavorite color or meal, gender\nParametric/numeric data Interval Ratio Ratio data are\nDescriptive statistics Inferential statistics Which test? Hypothesis testing Type I error: Type II error:\n"
+},
+{
+	"uri": "https://hejtmy.github.io/ib-psych/topics/biology/pheromones/",
+	"title": "Pheromones",
+	"tags": [],
+	"description": "",
+	"content": "NO\n"
 },
 {
 	"uri": "https://hejtmy.github.io/ib-psych/activities/5-percet-shapes-the-world/",
