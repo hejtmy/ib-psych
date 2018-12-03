@@ -18,7 +18,6 @@ Students in pairs switch in reading tongue twisters and in measuring the time. E
 3. Through three cheese trees three free fleas flew. While these fleas flew, freezy breeze blew. Freezy breeze made these three trees freeze. Freezy trees made these trees' cheese freeze. That's what made these three free fleas sneeze.
 4. Big black bugs bleed blue black blood but baby black bugs bleed blue blood.
 
-
 ### Schedule
 
 ## Discussion
