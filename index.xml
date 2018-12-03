@@ -230,15 +230,6 @@ Content Question 1 Question 1 will consist of all of the following questions, fo
     </item>
     
     <item>
-      <title>Statistics in psychological science</title>
-      <link>https://hejtmy.github.io/ib-psych/topics/research/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hejtmy.github.io/ib-psych/topics/research/statistics/</guid>
-      <description>Statistics allow us to determine laws in otherwise random world. Things happen with some level or randomness (error term in statistics). If you get A from a single math test and your friend gets a B, you would probably say it can be due to chance. But if you get an average of 85 points over 5 tests whereas your friend gets 77, you might start to think you are just better at Match.</description>
-    </item>
-    
-    <item>
       <title>Pheromones</title>
       <link>https://hejtmy.github.io/ib-psych/topics/biology/pheromones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -435,6 +426,15 @@ List of topics  Animal magnetism Graphology Fortune telling Rorschach test Neuro
       
       <guid>https://hejtmy.github.io/ib-psych/activities/strange-situation-scoring/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Student&#39;s T-test</title>
+      <link>https://hejtmy.github.io/ib-psych/topics/research/statistics/t-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hejtmy.github.io/ib-psych/topics/research/statistics/t-test/</guid>
+      <description>   Attachments   Examples T-test.pdf  (83 ko)    </description>
     </item>
     
     <item>
