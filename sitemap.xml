@@ -39,6 +39,10 @@
   </url>
   
   <url>
+    <loc>https://hejtmy.github.io/ib-psych/ib-requirements/paper-1-2/</loc>
+  </url>
+  
+  <url>
     <loc>https://hejtmy.github.io/ib-psych/topics/research/design/</loc>
   </url>
   
@@ -71,7 +75,7 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/topics/developmental/disorders/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/topics/developmental/deprivation/</loc>
   </url>
   
   <url>
@@ -96,6 +100,10 @@
   
   <url>
     <loc>https://hejtmy.github.io/ib-psych/topics/biology/animal-research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/topics/developmental/disorders/</loc>
   </url>
   
   <url>
@@ -124,6 +132,10 @@
   
   <url>
     <loc>https://hejtmy.github.io/ib-psych/ib-requirements/paper-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hejtmy.github.io/ib-psych/ib-requirements/command-terms/</loc>
   </url>
   
   <url>
@@ -175,12 +187,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/developmental/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/developmental/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/developmental/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/developmental/</loc>
     <priority>0</priority>
   </url>
   
@@ -251,12 +263,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/research/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/research/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/research/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/research/</loc>
     <priority>0</priority>
   </url>
   
@@ -278,12 +290,12 @@
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/categories/statistics/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/tags/statistics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hejtmy.github.io/ib-psych/tags/statistics/</loc>
+    <loc>https://hejtmy.github.io/ib-psych/categories/statistics/</loc>
     <priority>0</priority>
   </url>
   
