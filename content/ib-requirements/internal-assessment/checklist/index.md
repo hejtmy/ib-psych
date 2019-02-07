@@ -1,5 +1,5 @@
 +++
-title="Internal assessment interactive checklist"
+title="Internal assessment marking checklist"
 +++
 
 **Checklist for IA report**
@@ -175,7 +175,6 @@ Have you given concluding statement regarding your hypotheses and aim of your in
 
 May result in penalization if following criteria are not met
 
-
 ||Yes|	Not sure | No
 ----|----|-----|----
 Are the appendices clearly labeled and referenced in your IA report?	|		
@@ -189,4 +188,3 @@ Did you use appropriate format (eg. Type 12 font, double spacing…) so the repo
 Is everything what is needed included in the title page? (title, IB candidate code, IB candidate codes of other members in the group, date, month and year of submission, word count)	|
 Is every information included in the section where it should be? (eg. Justification of research design in exploration section, not in introduction section; interpretation of the results with regards to the theory in Evaluation section, not in analysis section…) |
 Do you have word count between 1800-2200? (title page, graph and tables in analysis part, references after the main body and appendices do not count into the word count)	|
-
