@@ -2,23 +2,34 @@
 title="Movie nights"
 +++
 
-## Goal
-This is to 
+## Biology
+### Awakenings
 
-### Biology
-- Awakenings
-- Lucy
-- Moon
-- Johny Mnemonic?
+### Lucy
+Movie about what happens when we use more than 10 percent of out brainpower.
+
+### Moon
+
+### Gattaca
+Movie about genetic predetermination
+
+### Johny Mnemonic?
 
 
-### Cognitive 
-- Memento
-- Eternal Sunshine
-- total Recall
+## Cognitive 
+### Memento
+### Eternal Sunshine
+### Total Recall
+### Equilibrium
+Society without emotions.
 
-### Social
-- Fight Club
+## Social
+### Fight Club
 
-### Abnormal
-- Fight club
+## Abnormal
+Movies about mental disorders
+### Fight club
+
+### Donnie Darko
+
+

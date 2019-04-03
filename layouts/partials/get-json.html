@@ -1,6 +1,7 @@
 {{ $path := split (trim ($.Page.Permalink | relURL) "/") "/"}}
+{{/*after one is only because I am not baseURL, but at ib-psych/ so that one is the first*/}}
 {{ range after 1 $path }}
-	{{ $scratch := $.Scratch.Get "data"}}
+  {{ $scratch := $.Scratch.Get "data"}}
   {{ if $scratch}}
 		{{ $d := index  $scratch . }}
     {{ $.Scratch.Set "data" $d}}
