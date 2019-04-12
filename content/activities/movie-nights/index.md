@@ -9,6 +9,7 @@ title="Movie nights"
 Movie about what happens when we use more than 10 percent of out brainpower.
 
 ### Moon
+Movie about morality of cloning and isolation
 
 ### Gattaca
 Movie about genetic predetermination
@@ -26,11 +27,14 @@ Society without emotions.
 ## Social
 ### Fight Club
 
+### Master
+Mobie about scientology/cults
+
 ## Abnormal
 Movies about mental disorders
 ### Fight club
 
 ### Donnie Darko
-1. Delusions
+Schizophrenia development
 
 
