@@ -9,7 +9,6 @@ weight="90"
 
 ### Use of Artificial intelligence in understanding cognitive processing
 
-
 ## Questions for student groups
 
 ### The impact of social media on mental health
