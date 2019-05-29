@@ -11,14 +11,16 @@ followed by a three short answer questions for a total of 24 marks.
 ### Question 1
 Question 1 will consist of all of the following questions, for a total of 9 marks. The questions will be assessed using an analytical markscheme.
 
-1. Identify the method used and outline two characteristics of the method. 
+1. Identify the method used and outline two characteristics of the method.
+
 2. Describe the sampling method used in the study. 
+
 3. Suggest an alternative or additional method giving one reason for your choice. 
 
 #### Marking
-Question 1: 1 point for correcl identification, 1 point for each characteristic
-Question 2: 1 point for correct identification, 1 point per correct description of the sampling procedure
-Question 3: 1 point for correct additional method, 2 points for appropriate rationale
+- Question 1: 1 point for correct identification, 1 point for each characteristic
+- Question 2: 1 point for correct identification, 1 point per correct description of the sampling procedure
+- Question 3: 1 point for correct additional method, 2 points for appropriate rationale
 
 ### Question 2
 Question 2 will consist of one of the following questions, for a total of 6 marks. The question will be assessed using an analytical markscheme.
@@ -44,8 +46,5 @@ Markband | Level descriptor
 4–6 | The question is understood, but only partially answered resulting in an argument of limited scope. The response contains mostly accurate references to approaches to research which are linked explicitly to the question. The response makes appropriate but limited use of the stimulus material.
 7–9 |The question is understood and answered in a focused and effective manner with an accurate argument that addresses the requirements of the question.
 The response contains accurate references to approaches to research with regard to the question, describing their strengths and limitations. The response makes effective use of the stimulus material.
-
-## Marking
-
 
 ## Examples 
